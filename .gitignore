@@ -1,2 +1,3 @@
-venv
-myenv
+venv/
+myenv/
+.DS_store
